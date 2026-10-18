@@ -1,0 +1,12 @@
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependicy.lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependicy.lib.AssemblyInfoInputs.cache
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependicy.lib.AssemblyInfo.cs
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependicy.lib.csproj.CoreCompileInputs.cache
+D:\Coding Work\C#\Basic_project\Dependicy.lib\bin\Debug\net10.0\Dependicy.lib.deps.json
+D:\Coding Work\C#\Basic_project\Dependicy.lib\bin\Debug\net10.0\Dependicy.lib.dll
+D:\Coding Work\C#\Basic_project\Dependicy.lib\bin\Debug\net10.0\Dependicy.lib.pdb
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependicy.lib.dll
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\refint\Dependicy.lib.dll
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependicy.lib.pdb
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\ref\Dependicy.lib.dll
+D:\Coding Work\C#\Basic_project\Dependicy.lib\obj\Debug\net10.0\Dependic.B9AB8C27.Up2Date

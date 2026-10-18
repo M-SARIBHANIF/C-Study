@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding Work\\C#\\Basic_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8659FD46-8E85-4EC0-8F84-0C2CCE2CFCF4}|Basic_project\\Basic_project.csproj|d:\\coding work\\c#\\basic_project\\basic_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8659FD46-8E85-4EC0-8F84-0C2CCE2CFCF4}|Basic_project\\Basic_project.csproj|solutionrelative:basic_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4BD54-2785-462E-AF60-C90117AD8D90}|Dependicy.lib\\Dependicy.lib.csproj|d:\\coding work\\c#\\basic_project\\dependicy.lib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B4BD54-2785-462E-AF60-C90117AD8D90}|Dependicy.lib\\Dependicy.lib.csproj|solutionrelative:dependicy.lib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B4BD54-2785-462E-AF60-C90117AD8D90}|Dependicy.lib\\Dependicy.lib.csproj|d:\\coding work\\c#\\basic_project\\dependicy.lib\\dependicy.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9B4BD54-2785-462E-AF60-C90117AD8D90}|Dependicy.lib\\Dependicy.lib.csproj|solutionrelative:dependicy.lib\\dependicy.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8659FD46-8E85-4EC0-8F84-0C2CCE2CFCF4}|Basic_project\\Basic_project.csproj|d:\\coding work\\c#\\basic_project\\basic_project\\basic_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8659FD46-8E85-4EC0-8F84-0C2CCE2CFCF4}|Basic_project\\Basic_project.csproj|solutionrelative:basic_project\\basic_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dependicy.lib",
+              "DocumentMoniker": "D:\\Coding Work\\C#\\Basic_project\\Dependicy.lib\\Dependicy.lib.csproj",
+              "RelativeDocumentMoniker": "Dependicy.lib\\Dependicy.lib.csproj",
+              "ToolTip": "D:\\Coding Work\\C#\\Basic_project\\Dependicy.lib\\Dependicy.lib.csproj",
+              "RelativeToolTip": "Dependicy.lib\\Dependicy.lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T14:43:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basic_project",
+              "DocumentMoniker": "D:\\Coding Work\\C#\\Basic_project\\Basic_project\\Basic_project.csproj",
+              "RelativeDocumentMoniker": "Basic_project\\Basic_project.csproj",
+              "ToolTip": "D:\\Coding Work\\C#\\Basic_project\\Basic_project\\Basic_project.csproj",
+              "RelativeToolTip": "Basic_project\\Basic_project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T14:41:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Work\\C#\\Basic_project\\Dependicy.lib\\Program.cs",
+              "RelativeDocumentMoniker": "Dependicy.lib\\Program.cs",
+              "ToolTip": "D:\\Coding Work\\C#\\Basic_project\\Dependicy.lib\\Program.cs",
+              "RelativeToolTip": "Dependicy.lib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:40:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Work\\C#\\Basic_project\\Basic_project\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_project\\Program.cs",
+              "ToolTip": "D:\\Coding Work\\C#\\Basic_project\\Basic_project\\Program.cs*",
+              "RelativeToolTip": "Basic_project\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:38:49.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

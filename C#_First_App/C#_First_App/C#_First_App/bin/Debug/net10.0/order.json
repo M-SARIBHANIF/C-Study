@@ -1,0 +1,21 @@
+{
+  "order_id": 101,
+  "Customer": {
+    "Name": "Sarib",
+    "Email": null
+  },
+  "Items": [
+    {
+      "Product": "Laptop",
+      "Price": 1200.0,
+      "Qty": 1
+    },
+    {
+      "Product": "Mouse",
+      "Price": 25.0,
+      "Qty": 2
+    }
+  ],
+  "CreatedOn": "2026-10-10T00:00:00",
+  "Total": 1250.0
+}

@@ -1,0 +1,17 @@
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\bin\Debug\net10.0\C#_First_App.exe
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\bin\Debug\net10.0\C#_First_App.deps.json
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\bin\Debug\net10.0\C#_First_App.runtimeconfig.json
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\bin\Debug\net10.0\C#_First_App.dll
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\bin\Debug\net10.0\C#_First_App.pdb
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.AssemblyInfoInputs.cache
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.AssemblyInfo.cs
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.csproj.CoreCompileInputs.cache
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.dll
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\refint\C#_First_App.dll
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.pdb
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.genruntimeconfig.cache
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\ref\C#_First_App.dll
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First.3FE8C1A0.Up2Date
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Coding Work\C#\C#_First_App\C#_First_App\C#_First_App\obj\Debug\net10.0\C#_First_App.csproj.AssemblyReference.cache

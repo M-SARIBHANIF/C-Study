@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Basic_project/Basic_project.csproj" />
+  <Project Path="Dependicy.lib/Dependicy.lib.csproj" />
+</Solution>
